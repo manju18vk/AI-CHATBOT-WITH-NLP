@@ -94,7 +94,7 @@ This chatbot serves as a foundation for developing advanced conversational agent
 
 ---
 output:
- 
+ <img width="720" height="128" alt="Image" src="https://github.com/user-attachments/assets/0ffa70f2-52d8-4dbe-85a9-b061b5bf0217" />
 
  Contact
 For any questions or feedback, feel free to reach out to:
